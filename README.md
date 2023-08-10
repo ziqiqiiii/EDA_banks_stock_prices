@@ -2,7 +2,7 @@
 
 In this data project, I will focus on exploratory data analysis of stock prices. this project is just meant to practice my visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
 
-- [Bnaks list](#Banks list)
+- [Banks list](#Banks list)
 - [Data](#Data)
   
 #### Banks list
